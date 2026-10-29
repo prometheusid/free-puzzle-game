@@ -1,0 +1,10 @@
+<Application x:Class="SusunGambar.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="#5B67F1" />
+        <SolidColorBrush x:Key="TextBrush" Color="#20243A" />
+        <SolidColorBrush x:Key="MutedBrush" Color="#777D91" />
+    </Application.Resources>
+</Application>

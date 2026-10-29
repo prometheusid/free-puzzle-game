@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+/SusunGambar.exe
+/SusunGambar-Windows-x64.zip
+*.user
+*.suo
